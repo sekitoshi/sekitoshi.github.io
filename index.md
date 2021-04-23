@@ -55,11 +55,11 @@ Journal of the Audio Engineering Society, Vol.64, No.11, pp.895-904, (2016)
 [[paper]](https://ieeexplore.ieee.org/document/6935290?arnumber=6935290)
 
 ## Preprints
-1. Sekitoshi Kanai, Masanori Yamada, **Hiroshi Takahashi**, Yuki Yamanaka, Yasutoshi Ida,  
+1. **Sekitoshi Kanai**, Masanori Yamada, Hiroshi Takahashi, Yuki Yamanaka, Yasutoshi Ida,  
   **Smoothness Analysis of Loss Functions of Adversarial Training**,  
   arXiv:2103.01400v1, 2021.  
   [[arXiv]](https://arxiv.org/abs/2103.01400)  
-1. Masanori Yamada, Sekitoshi Kanai, Tomoharu Iwata, Tomokatsu Takahashi, Yuki Yamanaka, **Hiroshi Takahashi**, Atsutoshi Kumagai,  
+1. Masanori Yamada, **Sekitoshi Kanai**, Tomoharu Iwata, Tomokatsu Takahashi, Yuki Yamanaka, Hiroshi Takahashi, Atsutoshi Kumagai,  
   **Adversarial Training Makes Weight Loss Landscape Sharper in Logistic Regression**,  
   arXiv:2102.02950, 2021.  
   [[arXiv]](https://arxiv.org/abs/2102.02950v1)
