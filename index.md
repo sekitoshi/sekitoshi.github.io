@@ -15,7 +15,7 @@ Journal of the Audio Engineering Society, Vol.64, No.11, pp.895-904, (2016)
 1. Yasuhiro Fujiwara, **Sekitoshi Kanai**, Yasutoshi Ida, Atsutoshi Kumagai, Naonori Ueda,  
 **Fast Algorithm for Anchor Graph Hashing**, VLDB2021  
 [[paper]](http://www.vldb.org/pvldb/vol14/p916-fujiwara.pdf)
-1. Yasuhiro Fujiwara, Yasutoshi Ida, **Sekitosih. Kanai**, Atsutoshi Kumagai, Naonori Ueda,  
+1. Yasuhiro Fujiwara, Yasutoshi Ida, **Sekitoshi Kanai**, Atsutoshi Kumagai, Naonori Ueda,  
 **Fast Similarity Computation for t-SNE**, ICDE2021
 1. Yasuhiro Fujiwara, Atsutoshi Kumagai, **Sekitoshi Kanai**, Yasutoshi Ida, and Naonori Ueda,  
  **Efficient Algorithm for the b-Matching**, KDD2020  
@@ -48,7 +48,7 @@ Journal of the Audio Engineering Society, Vol.64, No.11, pp.895-904, (2016)
 **Preventing Gradient Explosions in Gated Recurrent Units**, NIPS 2017  
 [[paper]](https://proceedings.neurips.cc/paper/2017/hash/f2fc990265c712c49d51a18a32b39f0c-Abstract.html)
 1. **Sekitoshi Kanai**, Kentaro Matsui, Yasushige Nakayama, Shuichi Adachi,  
-**Uncorrelated Input Signals Design and Identification with Low-Complexity for Simultaneous Estimation of Head-Related Transfer Functions**, Audio Engineering Society Convention 137  
+**Uncorrelated Input Signals Design and Identification with Low-Complexity for Simultaneous Estimation of Head-Related Transfer Functions**, 137th Audio Engineering Society Convention  
 [[paper]](https://secure.aes.org/forum/pubs/conventions/?elib=17475)
 1. **Sekitoshi Kanai**, Kentaro Matsui, Shuichi Adachi,  
 **Identification input design for simultaneous estimation of head-related transfer functions**, SICE2014  
