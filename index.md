@@ -48,7 +48,7 @@ Journal of the Audio Engineering Society, Vol.64, No.11, pp.895-904, (2016)
 **Preventing Gradient Explosions in Gated Recurrent Units**, NIPS 2017  
 [[paper]](https://proceedings.neurips.cc/paper/2017/hash/f2fc990265c712c49d51a18a32b39f0c-Abstract.html)
 1. **Sekitoshi Kanai**, Kentaro Matsui, Yasushige Nakayama, Shuichi Adachi,  
-**Uncorrelated Input Signals Design and Identification with Low-Complexity for Simultaneous Estimation of Head-Related Transfer Functions**, 137th Audio Engineering Society Convention  
+**Uncorrelated Input Signals Design and Identification with Low-Complexity for Simultaneous Estimation of Head-Related Transfer Functions**, 137th Audio Engineering Society Convention (2014)  
 [[paper]](https://secure.aes.org/forum/pubs/conventions/?elib=17475)
 1. **Sekitoshi Kanai**, Kentaro Matsui, Shuichi Adachi,  
 **Identification input design for simultaneous estimation of head-related transfer functions**, SICE2014  
