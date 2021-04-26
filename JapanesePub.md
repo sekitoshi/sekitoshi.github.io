@@ -1,10 +1,15 @@
 # Publications
 ## Journal
+1. **金井関利**，藤原靖宏，山中友貴，足立修一,  
+**Softmax Bottleneck の再解釈とそれを解消する出力関数の評価**，電子情報通信学会和文論文誌D，Vol.J103-D, No.06, pp.518-528 (2020)
+1. **金井関利**, 藤原靖宏, 岩村相哲, 足立修一,  
+**Gated recurrent unit の局所安定化による勾配爆発の抑制**, 電子情報通信学会和文論文誌D, Vol.J102-D, No.8, pp.530-541 (2019, 電子情報通信学会論文賞受賞)
 1. **Sekitoshi Kanai**, Maho Sugaya, Shuichi Adachi, Kentaro Matsui,  
 **Low-complexity simultaneous estimation of head-related transfer functions by prediction error method**,  
 Journal of the Audio Engineering Society, Vol.64, No.11, pp.895-904, (2016)  
 [[paper]](https://www.aes.org/e-lib/browse.cfm?elib=17475)
-
+1. **金井関利**, 松井健太郎, 中山靖茂, 足立修一,   
+**入力設計の改良による頭部伝達関数の多方向同時推定の高精度化**, 日本音響学会誌 研究速報, vol.71, No.7, pp.316-318, (2015)
 ## International Conference
 1. **Sekitoshi Kanai**, Masanori Yamada, Shin'ya Yamaguchi, Hiroshi Takahashi, Yasutoshi Ida,  
   **Constraining Logits by Bounded Function for Adversarial Robustness**, IJCNN2021 (to appear)  
@@ -66,6 +71,37 @@ Journal of the Audio Engineering Society, Vol.64, No.11, pp.895-904, (2016)
 1. Shin'ya Yamaguchi, **Sekitoshi Kanai**, Tetsuya Shioda, Shoichiro Takeda,  
  **Multiple Pretext-Task for Self-Supervised Learning via Mixing Multiple Image Transformations**, arXiv:1912.11603  
  [[arxiv]](https://arxiv.org/abs/1912.11603)
+
+## 国内学会
+1. 井田安俊，**金井関利**，藤原靖宏，岩田具治，竹内孝，鹿島 久嗣,  
+**スパース正則化に基づいたCUR行列分解の高速化**，第23回情報論的学習理論ワークショップ（IBIS2020），オンライン 2020年11月25日
+1. 山口真弥，**金井関利**，塩田哲哉,  
+**Rotation++: 複数画像変換を組み合わせた自己教師学習**，第22回情報論的学習理論ワークショップ（IBIS2019），ウインクあいち，名古屋 2019年11月20日
+1. **金井関利**，藤原靖宏，岩村相哲,  
+**局所的に安定に制約した Gated Recurrent units の学習法**，第61回自動制御連合講演会，南山大学，名古屋2018年11月18日
+1. **金井関利**，藤原靖宏，山中友貴，足立修一,  
+**Softmax bottleneckの再考**，第21回情報論的学習理論ワークショップ（IBIS2018），かでる2.7，札幌 2018年11月6日
+1. **金井関利**，藤原靖宏，足立修一,  
+**Unscented transform を用いた GAN の事前学習，情報論的学習理論と機械学習研究会（IBISML），福岡工大，福岡2018年9月21日
+1. **金井関利**, 藤原 靖宏, 岩村相晢,  
+**GRU学習時の勾配爆発の抑制方法の提案**, 第19回情報論的学習理論ワークショップ（IBIS2017）, 京都大学, 京都 2016年11月17日
+1. 松井健太郎，**金井関利**，菅谷真帆，足立修一,  
+**頭部伝達関数の共通極・零モデリング法の一検討**，応用音響研究会，東北大学電気通信研究所, 仙台, 2015年8月3日
+1. 室井秀夫, **金井関利**, 足立修一,  
+**多変数システム同定のための入力信号の設計について**, MOVIC 2015, 栃木県総合文化センター, 宇都宮, 2015年6月24日 発表済
+1. **金井関利**, 松井健太郎, 中山靖茂, 足立修一,  
+**多方向頭部伝達関数の ARX モデリング**, 応用音響研究会, ホテルミヤヒラ, 石垣島, 2015年3月3日
+1. **金井関利**，松井健太郎，中山靖茂，足立修一,  
+**頭部伝達関数同時推定のための入力信号設計**, 日本音響学会 2014年秋季研究発表会，北海道大学, 札幌, 2014年9月4日
+1. **金井関利**, 足立修一, 松井健太郎, 安藤彰男,  
+**正則化最小二乗法を用いた頭部伝達関数の多方向同時推定**, 応用音響研究会, 東北大学電気通信研究所, 仙台, 2013年8月3日
+1. 石川健太郎, **金井関利**, 足立修一,  
+**パラメトリックモデルに基づく頭部伝達関数の推定**, SCI 13, 兵庫県民会館, 神戸, 2013年5月17日
+
+## 受賞
+1. 2020年度 慶應義塾大学大学院理工学研究科 藤原賞（大学内の表彰）
+1. 2019年度電子情報通信学会論文賞「Gated recurrent unit の局所安定化による勾配爆発の抑制」
+1. 2017年度 SIC所長表彰 イノベーション賞「リカレント型ニューラルネットワークの学習安定化技術の確立」（社内表彰）
 
 ## Activities
 Reviewer: ICML2021, AAAI2021, NeurIPS2020, ICML2020, IJCAI-PRICAI2020, NeurIPS2019
