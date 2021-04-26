@@ -1,5 +1,8 @@
 # Publications
 ## Journal
+1. Yasuhiro Fujiwara, **Sekitoshi Kanai**, Yasutoshi Ida, Atsutoshi Kumagai, Naonori Ueda,  
+**Fast Algorithm for Anchor Graph Hashing**, PVLDB2021, Vol. 14, No. 6, pp.916-928, (2021)  
+[[paper]](http://www.vldb.org/pvldb/vol14/p916-fujiwara.pdf)  
 1. **金井関利**，藤原靖宏，山中友貴，足立修一,  
 **Softmax Bottleneck の再解釈とそれを解消する出力関数の評価**，電子情報通信学会和文論文誌D，Vol.J103-D, No.06, pp.518-528 (2020)
 1. **金井関利**, 藤原靖宏, 岩村相哲, 足立修一,  
@@ -18,9 +21,6 @@ Journal of the Audio Engineering Society, Vol.64, No.11, pp.895-904, (2016)
 1. Toshiaki Wakatsuki, **Sekitoshi Kanai**, Yasuhiro Fujiwara,  
  **Accelerate Inference of CNNs for Video Analysis While Preserving Exactness Exploiting Activation Sparsity**, MLSys2021  
  [[paper]](https://proceedings.mlsys.org/paper/2021/hash/f033ab37c30201f73f142449d037028d-Abstract.html)
-1. Yasuhiro Fujiwara, **Sekitoshi Kanai**, Yasutoshi Ida, Atsutoshi Kumagai, Naonori Ueda,  
-**Fast Algorithm for Anchor Graph Hashing**, VLDB2021  
-[[paper]](http://www.vldb.org/pvldb/vol14/p916-fujiwara.pdf)
 1. Yasuhiro Fujiwara, Yasutoshi Ida, **Sekitosih. Kanai**, Atsutoshi Kumagai, Naonori Ueda,  
 **Fast Similarity Computation for t-SNE**, ICDE2021
 1. Yasuhiro Fujiwara, Atsutoshi Kumagai, **Sekitoshi Kanai**, Yasutoshi Ida, and Naonori Ueda,  
