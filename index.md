@@ -15,7 +15,7 @@ Journal of the Audio Engineering Society, Vol.64, No.11, pp.895-904, (2016)
 1. Yasuhiro Fujiwara, **Sekitoshi Kanai**, Yasutoshi Ida, Atsutoshi Kumagai, Naonori Ueda,  
 **Fast Algorithm for Anchor Graph Hashing**, VLDB2021  
 [[paper]](http://www.vldb.org/pvldb/vol14/p916-fujiwara.pdf)
-1. Yasuhiro Fujiwara, Yasutoshi Ida, **Sekitosih. Kanai**, Atsutoshi Kumagai, Naonori Ueda,  
+1. Yasuhiro Fujiwara, Yasutoshi Ida, **Sekitoshi Kanai**, Atsutoshi Kumagai, Naonori Ueda,  
 **Fast Similarity Computation for t-SNE**, ICDE2021
 1. Yasuhiro Fujiwara, Atsutoshi Kumagai, **Sekitoshi Kanai**, Yasutoshi Ida, and Naonori Ueda,  
  **Efficient Algorithm for the b-Matching**, KDD2020  
@@ -48,18 +48,18 @@ Journal of the Audio Engineering Society, Vol.64, No.11, pp.895-904, (2016)
 **Preventing Gradient Explosions in Gated Recurrent Units**, NIPS 2017  
 [[paper]](https://proceedings.neurips.cc/paper/2017/hash/f2fc990265c712c49d51a18a32b39f0c-Abstract.html)
 1. **Sekitoshi Kanai**, Kentaro Matsui, Yasushige Nakayama, Shuichi Adachi,  
-**Uncorrelated Input Signals Design and Identification with Low-Complexity for Simultaneous Estimation of Head-Related Transfer Functions**, Audio Engineering Society Convention 137  
+**Uncorrelated Input Signals Design and Identification with Low-Complexity for Simultaneous Estimation of Head-Related Transfer Functions**, 137th Audio Engineering Society Convention (2014)  
 [[paper]](https://secure.aes.org/forum/pubs/conventions/?elib=17475)
 1. **Sekitoshi Kanai**, Kentaro Matsui, Shuichi Adachi,  
 **Identification input design for simultaneous estimation of head-related transfer functions**, SICE2014  
 [[paper]](https://ieeexplore.ieee.org/document/6935290?arnumber=6935290)
 
 ## Preprints
-1. Sekitoshi Kanai, Masanori Yamada, **Hiroshi Takahashi**, Yuki Yamanaka, Yasutoshi Ida,  
+1. **Sekitoshi Kanai**, Masanori Yamada, Hiroshi Takahashi, Yuki Yamanaka, Yasutoshi Ida,  
   **Smoothness Analysis of Loss Functions of Adversarial Training**,  
   arXiv:2103.01400v1, 2021.  
   [[arXiv]](https://arxiv.org/abs/2103.01400)  
-1. Masanori Yamada, Sekitoshi Kanai, Tomoharu Iwata, Tomokatsu Takahashi, Yuki Yamanaka, **Hiroshi Takahashi**, Atsutoshi Kumagai,  
+1. Masanori Yamada, **Sekitoshi Kanai**, Tomoharu Iwata, Tomokatsu Takahashi, Yuki Yamanaka, Hiroshi Takahashi, Atsutoshi Kumagai,  
   **Adversarial Training Makes Weight Loss Landscape Sharper in Logistic Regression**,  
   arXiv:2102.02950, 2021.  
   [[arXiv]](https://arxiv.org/abs/2102.02950v1)
