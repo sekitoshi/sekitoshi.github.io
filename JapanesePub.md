@@ -10,6 +10,7 @@ Journal of the Audio Engineering Society, Vol.64, No.11, pp.895-904, (2016)
 [[paper]](https://www.aes.org/e-lib/browse.cfm?elib=17475)
 1. **金井関利**, 松井健太郎, 中山靖茂, 足立修一,   
 **入力設計の改良による頭部伝達関数の多方向同時推定の高精度化**, 日本音響学会誌 研究速報, vol.71, No.7, pp.316-318, (2015)
+
 ## International Conference
 1. **Sekitoshi Kanai**, Masanori Yamada, Shin'ya Yamaguchi, Hiroshi Takahashi, Yasutoshi Ida,  
   **Constraining Logits by Bounded Function for Adversarial Robustness**, IJCNN2021 (to appear)  
@@ -82,7 +83,7 @@ Journal of the Audio Engineering Society, Vol.64, No.11, pp.895-904, (2016)
 1. **金井関利**，藤原靖宏，山中友貴，足立修一,  
 **Softmax bottleneckの再考**，第21回情報論的学習理論ワークショップ（IBIS2018），かでる2.7，札幌 2018年11月6日
 1. **金井関利**，藤原靖宏，足立修一,  
-**Unscented transform を用いた GAN の事前学習，情報論的学習理論と機械学習研究会（IBISML），福岡工大，福岡2018年9月21日
+**Unscented transform を用いた GAN の事前学習**，情報論的学習理論と機械学習研究会（IBISML），福岡工大，福岡2018年9月21日
 1. **金井関利**, 藤原 靖宏, 岩村相晢,  
 **GRU学習時の勾配爆発の抑制方法の提案**, 第19回情報論的学習理論ワークショップ（IBIS2017）, 京都大学, 京都 2016年11月17日
 1. 松井健太郎，**金井関利**，菅谷真帆，足立修一,  
