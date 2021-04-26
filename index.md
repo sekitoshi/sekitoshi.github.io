@@ -1,5 +1,8 @@
 # Publications
 ## Journal
+1. Yasuhiro Fujiwara, **Sekitoshi Kanai**, Yasutoshi Ida, Atsutoshi Kumagai, Naonori Ueda,  
+**Fast Algorithm for Anchor Graph Hashing**, PVLDB2021, Vol. 14, No. 6, pp.916-928, (2021)  
+[[paper]](http://www.vldb.org/pvldb/vol14/p916-fujiwara.pdf)
 1. **Sekitoshi Kanai**, Maho Sugaya, Shuichi Adachi, Kentaro Matsui,  
 **Low-complexity simultaneous estimation of head-related transfer functions by prediction error method**,  
 Journal of the Audio Engineering Society, Vol.64, No.11, pp.895-904, (2016)  
@@ -12,9 +15,6 @@ Journal of the Audio Engineering Society, Vol.64, No.11, pp.895-904, (2016)
 1. Toshiaki Wakatsuki, **Sekitoshi Kanai**, Yasuhiro Fujiwara,  
  **Accelerate Inference of CNNs for Video Analysis While Preserving Exactness Exploiting Activation Sparsity**, MLSys2021  
  [[paper]](https://proceedings.mlsys.org/paper/2021/hash/f033ab37c30201f73f142449d037028d-Abstract.html)
-1. Yasuhiro Fujiwara, **Sekitoshi Kanai**, Yasutoshi Ida, Atsutoshi Kumagai, Naonori Ueda,  
-**Fast Algorithm for Anchor Graph Hashing**, VLDB2021  
-[[paper]](http://www.vldb.org/pvldb/vol14/p916-fujiwara.pdf)
 1. Yasuhiro Fujiwara, Yasutoshi Ida, **Sekitoshi Kanai**, Atsutoshi Kumagai, Naonori Ueda,  
 **Fast Similarity Computation for t-SNE**, ICDE2021
 1. Yasuhiro Fujiwara, Atsutoshi Kumagai, **Sekitoshi Kanai**, Yasutoshi Ida, and Naonori Ueda,  
