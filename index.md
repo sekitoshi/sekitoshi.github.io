@@ -69,3 +69,5 @@ Journal of the Audio Engineering Society, Vol.64, No.11, pp.895-904, (2016)
 
 ## Activities
 Reviewer: ICML2021, AAAI2021, NeurIPS2020, ICML2020, IJCAI-PRICAI2020, NeurIPS2019
+
+[業績（日本語）](/JapanesePub.md)
