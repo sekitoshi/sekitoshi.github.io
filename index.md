@@ -6,7 +6,7 @@
 1. **Sekitoshi Kanai**, Maho Sugaya, Shuichi Adachi, Kentaro Matsui,  
 **Low-complexity simultaneous estimation of head-related transfer functions by prediction error method**,  
 Journal of the Audio Engineering Society, Vol.64, No.11, pp.895-904, (2016)  
-[[paper]](https://www.aes.org/e-lib/browse.cfm?elib=17475)
+[[paper]](https://www.aes.org/e-lib/online/browse.cfm?elib=18526)
 
 ## International Conference
 1. **Sekitoshi Kanai**, Masanori Yamada, Shin'ya Yamaguchi, Hiroshi Takahashi, Yasutoshi Ida,  
