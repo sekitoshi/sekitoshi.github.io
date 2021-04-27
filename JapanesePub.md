@@ -10,7 +10,7 @@
 1. **Sekitoshi Kanai**, Maho Sugaya, Shuichi Adachi, Kentaro Matsui,  
 **Low-complexity simultaneous estimation of head-related transfer functions by prediction error method**,  
 Journal of the Audio Engineering Society, Vol.64, No.11, pp.895-904, (2016)  
-[[paper]](https://www.aes.org/e-lib/browse.cfm?elib=17475)
+[[paper]](https://www.aes.org/e-lib/online/browse.cfm?elib=18526)
 1. **金井関利**, 松井健太郎, 中山靖茂, 足立修一,   
 **入力設計の改良による頭部伝達関数の多方向同時推定の高精度化**, 日本音響学会誌 研究速報, vol.71, No.7, pp.316-318, (2015)
 
