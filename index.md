@@ -9,6 +9,9 @@ Journal of the Audio Engineering Society, Vol.64, No.11, pp.895-904, (2016)
 [[paper]](https://www.aes.org/e-lib/online/browse.cfm?elib=18526)
 
 ## International Conference
+1. Shin'ya Yamaguchi, **Sekitoshi Kanai**, Tetsuya Shioda, Shoichiro Takeda,  
+ **Multiple Pretext-Task for Self-Supervised Learning via Mixing Multiple Image Transformations**, ICIP2021 (to appear)  
+ [[arxiv]](https://arxiv.org/abs/1912.11603)
 1. **Sekitoshi Kanai**, Masanori Yamada, Shin'ya Yamaguchi, Hiroshi Takahashi, Yasutoshi Ida,  
   **Constraining Logits by Bounded Function for Adversarial Robustness**, IJCNN2021 (to appear)  
   [[arxiv]](https://arxiv.org/abs/2010.02558)
@@ -63,9 +66,7 @@ Journal of the Audio Engineering Society, Vol.64, No.11, pp.895-904, (2016)
   **Adversarial Training Makes Weight Loss Landscape Sharper in Logistic Regression**,  
   arXiv:2102.02950, 2021.  
   [[arXiv]](https://arxiv.org/abs/2102.02950v1)
-1. Shin'ya Yamaguchi, **Sekitoshi Kanai**, Tetsuya Shioda, Shoichiro Takeda,  
- **Multiple Pretext-Task for Self-Supervised Learning via Mixing Multiple Image Transformations**, arXiv:1912.11603  
- [[arxiv]](https://arxiv.org/abs/1912.11603)
+
 
 ## Activities
 Reviewer: ICML2021, AAAI2021, NeurIPS2020, ICML2020, IJCAI-PRICAI2020, NeurIPS2019
