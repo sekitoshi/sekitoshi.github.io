@@ -15,7 +15,10 @@ Journal of the Audio Engineering Society, Vol.64, No.11, pp.895-904, (2016)
 **入力設計の改良による頭部伝達関数の多方向同時推定の高精度化**, 日本音響学会誌 研究速報, vol.71, No.7, pp.316-318, (2015)
 
 ## International Conference
-1. **Sekitoshi Kanai**, Masanori Yamada, Shin'ya Yamaguchi, Hiroshi Takahashi, Yasutoshi Ida,  
+1. Shin'ya Yamaguchi, **Sekitoshi Kanai**, Tetsuya Shioda, Shoichiro Takeda,  
+ **Multiple Pretext-Task for Self-Supervised Learning via Mixing Multiple Image Transformations**, ICIP2021 (to appear)  
+ [[arxiv]](https://arxiv.org/abs/1912.11603)
+ 1. **Sekitoshi Kanai**, Masanori Yamada, Shin'ya Yamaguchi, Hiroshi Takahashi, Yasutoshi Ida,  
   **Constraining Logits by Bounded Function for Adversarial Robustness**, IJCNN2021 (to appear)  
   [[arxiv]](https://arxiv.org/abs/2010.02558)
 1. Toshiaki Wakatsuki, **Sekitoshi Kanai**, Yasuhiro Fujiwara,  
@@ -69,9 +72,6 @@ Journal of the Audio Engineering Society, Vol.64, No.11, pp.895-904, (2016)
   **Adversarial Training Makes Weight Loss Landscape Sharper in Logistic Regression**,  
   arXiv:2102.02950, 2021.  
   [[arXiv]](https://arxiv.org/abs/2102.02950v1)
-1. Shin'ya Yamaguchi, **Sekitoshi Kanai**, Tetsuya Shioda, Shoichiro Takeda,  
- **Multiple Pretext-Task for Self-Supervised Learning via Mixing Multiple Image Transformations**, arXiv:1912.11603  
- [[arxiv]](https://arxiv.org/abs/1912.11603)
 
 ## 国内学会
 1. 井田安俊，**金井関利**，藤原靖宏，岩田具治，竹内孝，鹿島 久嗣,  
