@@ -58,7 +58,11 @@ Journal of the Audio Engineering Society, Vol.64, No.11, pp.895-904, (2016)
 [[paper]](https://ieeexplore.ieee.org/document/6935290?arnumber=6935290)
 
 ## Preprints
-1. **Sekitoshi Kanai**, Masanori Yamada, Hiroshi Takahashi, Yuki Yamanaka, Yasutoshi Ida,  
+1. Shin'ya Yamaguchi, **Sekitoshi Kanai**,  
+   **F-Drop&Match: GANs with a Dead Zone in the High-Frequency Domain**,  
+   arXiv:2106.02343, 2021.  
+   [[arXiv]](https://arxiv.org/abs/2106.02343)
+3. **Sekitoshi Kanai**, Masanori Yamada, Hiroshi Takahashi, Yuki Yamanaka, Yasutoshi Ida,  
   **Smoothness Analysis of Loss Functions of Adversarial Training**,  
   arXiv:2103.01400v1, 2021.  
   [[arXiv]](https://arxiv.org/abs/2103.01400)  
