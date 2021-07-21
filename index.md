@@ -1,3 +1,4 @@
+He received his B.E. and M.E. degrees in Physics and Physico-Informatics Engineering from Keio University, Japan, in 2013, 2015, respectively, and recieved the Ph.D. degree in Engineering from Keio University, Japan in 2020. He is a researcher of NTT since 2015.
 # Publications
 ## Journal
 1. Yasuhiro Fujiwara, **Sekitoshi Kanai**, Yasutoshi Ida, Atsutoshi Kumagai, Naonori Ueda,  
