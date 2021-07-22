@@ -11,8 +11,7 @@ Journal of the Audio Engineering Society, Vol.64, No.11, pp.895-904, (2016)
 
 ## International Conference
 1. Shin'ya Yamaguchi, **Sekitoshi Kanai**,  
-   **F-Drop&Match: GANs with a Dead Zone in the High-Frequency Domain**,  
-   ICCV 2021(to appear)  
+   **F-Drop&Match: GANs with a Dead Zone in the High-Frequency Domain**, ICCV 2021(to appear)  
    [[arXiv]](https://arxiv.org/abs/2106.02343)
 1. Shin'ya Yamaguchi, **Sekitoshi Kanai**, Tetsuya Shioda, Shoichiro Takeda,  
  **Multiple Pretext-Task for Self-Supervised Learning via Mixing Multiple Image Transformations**, ICIP2021 (to appear)  
