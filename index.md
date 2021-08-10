@@ -10,7 +10,9 @@ Journal of the Audio Engineering Society, Vol.64, No.11, pp.895-904, (2016)
 [[paper]](https://www.aes.org/e-lib/online/browse.cfm?elib=18526)
 
 ## International Conference
-1. Shin'ya Yamaguchi, **Sekitoshi Kanai**,  
+1. Yasuhiro Fujiwara, Yasutoshi Ida, Atsutoshi Kumagai, **Sekitoshi Kanai**, and Naonori Ueda,  
+ **Fast and Accurate Anchor Graph-based Label Prediction**, CIKM2021(to appear) 
+ 1. Shin'ya Yamaguchi, **Sekitoshi Kanai**,  
    **F-Drop&Match: GANs with a Dead Zone in the High-Frequency Domain**, ICCV 2021(to appear)  
    [[arXiv]](https://arxiv.org/abs/2106.02343)
 1. Shin'ya Yamaguchi, **Sekitoshi Kanai**, Tetsuya Shioda, Shoichiro Takeda,  
