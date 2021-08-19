@@ -1,3 +1,7 @@
+2013年 慶應義塾大学物理情報工学科卒業  
+2015年 慶應義塾大学大学院基礎理工学専攻修士課程修了  
+2015年 日本電信電話株式会社入社  
+2020年 慶應義塾大学大学院基礎理工学専攻博士課程修了 博士(工学)
 # Publications
 ## Journal
 1. Yasuhiro Fujiwara, **Sekitoshi Kanai**, Yasutoshi Ida, Atsutoshi Kumagai, Naonori Ueda,  
@@ -112,3 +116,5 @@ Journal of the Audio Engineering Society, Vol.64, No.11, pp.895-904, (2016)
 
 ## Activities
 Reviewer: ICML2021, AAAI2021, NeurIPS2020, ICML2020, IJCAI-PRICAI2020, NeurIPS2019
+
+[English](/index.md)
