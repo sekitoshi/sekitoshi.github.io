@@ -17,7 +17,7 @@ Journal of the Audio Engineering Society, Vol.64, No.11, pp.895-904, (2016)
    [[arXiv]](https://arxiv.org/abs/2106.02343)
 1. Shin'ya Yamaguchi, **Sekitoshi Kanai**, Tetsuya Shioda, Shoichiro Takeda,  
  **Multiple Pretext-Task for Self-Supervised Learning via Mixing Multiple Image Transformations**, ICIP2021 (to appear)  
- [[arxiv]](https://arxiv.org/abs/1912.11603)
+ [[paper]](https://ieeexplore.ieee.org/document/9506132) [[arxiv]](https://arxiv.org/abs/1912.11603)
 1. **Sekitoshi Kanai**, Masanori Yamada, Shin'ya Yamaguchi, Hiroshi Takahashi, Yasutoshi Ida,  
   **Constraining Logits by Bounded Function for Adversarial Robustness**, IJCNN2021  
   [[arxiv]](https://arxiv.org/abs/2010.02558)
