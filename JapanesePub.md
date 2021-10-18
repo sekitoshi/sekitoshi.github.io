@@ -22,10 +22,10 @@ Journal of the Audio Engineering Society, Vol.64, No.11, pp.895-904, (2016)
 1. Yasuhiro Fujiwara, Yasutoshi Ida, Atsutoshi Kumagai, **Sekitoshi Kanai**, and Naonori Ueda,  
  **Fast and Accurate Anchor Graph-based Label Prediction**, CIKM2021(to appear)
 1. Shin'ya Yamaguchi, **Sekitoshi Kanai**,  
-   **F-Drop&Match: GANs with a Dead Zone in the High-Frequency Domain**, ICCV 2021(to appear)  
+   **F-Drop&Match: GANs with a Dead Zone in the High-Frequency Domain**, ICCV 2021  
    [[arXiv]](https://arxiv.org/abs/2106.02343)
 1. Shin'ya Yamaguchi, **Sekitoshi Kanai**, Tetsuya Shioda, Shoichiro Takeda,  
- **Multiple Pretext-Task for Self-Supervised Learning via Mixing Multiple Image Transformations**, ICIP2021 (to appear)  
+ **Multiple Pretext-Task for Self-Supervised Learning via Mixing Multiple Image Transformations**, ICIP2021  
  [[paper]](https://ieeexplore.ieee.org/document/9506132) [[arxiv]](https://arxiv.org/abs/1912.11603)
  1. **Sekitoshi Kanai**, Masanori Yamada, Shin'ya Yamaguchi, Hiroshi Takahashi, Yasutoshi Ida,  
   **Constraining Logits by Bounded Function for Adversarial Robustness**, IJCNN2021  
@@ -115,6 +115,6 @@ Journal of the Audio Engineering Society, Vol.64, No.11, pp.895-904, (2016)
 1. 2017年度 SIC所長表彰 イノベーション賞「リカレント型ニューラルネットワークの学習安定化技術の確立」（社内表彰）
 
 ## Activities
-Reviewer: ICML2021, AAAI2021, NeurIPS2020, ICML2020, IJCAI-PRICAI2020, NeurIPS2019
+Reviewer: NeurIPS2021, ICML2021, AAAI2021, NeurIPS2020, ICML2020, IJCAI-PRICAI2020, NeurIPS2019
 
 [English](/index.md)
