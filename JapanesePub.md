@@ -29,7 +29,7 @@ Journal of the Audio Engineering Society, Vol.64, No.11, pp.895-904, (2016)
  [[paper]](https://ieeexplore.ieee.org/document/9506132), [[arxiv]](https://arxiv.org/abs/1912.11603)
  1. **Sekitoshi Kanai**, Masanori Yamada, Shin'ya Yamaguchi, Hiroshi Takahashi, Yasutoshi Ida,  
   **Constraining Logits by Bounded Function for Adversarial Robustness**, IJCNN2021  
-  [[arxiv]](https://arxiv.org/abs/2010.02558)
+ [[paper]](https://ieeexplore.ieee.org/abstract/document/9533777), [[arxiv]](https://arxiv.org/abs/2010.02558)
 1. Toshiaki Wakatsuki, **Sekitoshi Kanai**, Yasuhiro Fujiwara,  
  **Accelerate Inference of CNNs for Video Analysis While Preserving Exactness Exploiting Activation Sparsity**, MLSys2021  
  [[paper]](https://proceedings.mlsys.org/paper/2021/hash/f033ab37c30201f73f142449d037028d-Abstract.html)
