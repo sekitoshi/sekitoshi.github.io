@@ -65,6 +65,10 @@ Journal of the Audio Engineering Society, Vol.64, No.11, pp.895-904, (2016)
 [[paper]](https://ieeexplore.ieee.org/document/6935290?arnumber=6935290)
 
 ## Preprints
+1. Shin'ya Yamaguchi, **Sekitoshi Kanai**, Atsutoshi Kumagai, Daiki Chijiwa, Hisashi Kashima  
+   **Transfer Learning with Pre-trained Conditional Generative Models**  
+  arXiv:2204.12833, 2022.  
+   [[arXiv]](https://arxiv.org/abs/2204.12833)  
 1. **Sekitoshi Kanai**, Masanori Yamada, Hiroshi Takahashi, Yuki Yamanaka, Yasutoshi Ida,  
   **Smoothness Analysis of Loss Functions of Adversarial Training**,  
   arXiv:2103.01400v1, 2021.  
@@ -76,6 +80,6 @@ Journal of the Audio Engineering Society, Vol.64, No.11, pp.895-904, (2016)
 
 
 ## Activities
-Reviewer: NeurIPS2021, ICML2021, AAAI2021, NeurIPS2020, ICML2020, IJCAI-PRICAI2020, NeurIPS2019
+Reviewer: ICML2022, AAAI2022, ICLR2022, NeurIPS2021, ICML2021, AAAI2021, NeurIPS2020, ICML2020, IJCAI-PRICAI2020, NeurIPS2019
 
 [業績（日本語）](/JapanesePub.md)
