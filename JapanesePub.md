@@ -19,8 +19,11 @@ Journal of the Audio Engineering Society, Vol.64, No.11, pp.895-904, (2016)
 **入力設計の改良による頭部伝達関数の多方向同時推定の高精度化**, 日本音響学会誌 研究速報, vol.71, No.7, pp.316-318, (2015)
 
 ## International Conference
+1. Hiroshi Takahashi, Tomoharu Iwata, Atsutoshi Kumagai, **Sekitoshi Kanai**, Masanori Yamada, Yuuki Yamanaka, and Hisashi Kashima,  
+ **Learning Optimal Priors for Task-Invariant Representations in Variational Autoencoders**, KDD2022 (to appear)   
 1. Yasuhiro Fujiwara, Yasutoshi Ida, Atsutoshi Kumagai, **Sekitoshi Kanai**, and Naonori Ueda,  
- **Fast and Accurate Anchor Graph-based Label Prediction**, CIKM2021(to appear)
+ **Fast and Accurate Anchor Graph-based Label Prediction**, CIKM2021  
+ [[paper]](https://dl.acm.org/doi/10.1145/3459637.3482258)
 1. Shin'ya Yamaguchi, **Sekitoshi Kanai**,  
    **F-Drop&Match: GANs with a Dead Zone in the High-Frequency Domain**, ICCV 2021  
    [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Yamaguchi_F-DropMatch_GANs_With_a_Dead_Zone_in_the_High-Frequency_Domain_ICCV_2021_paper.pdf), [[arXiv]](https://arxiv.org/abs/2106.02343)
