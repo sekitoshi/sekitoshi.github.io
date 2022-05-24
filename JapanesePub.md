@@ -122,6 +122,6 @@ Journal of the Audio Engineering Society, Vol.64, No.11, pp.895-904, (2016)
 1. 2017年度 SIC所長表彰 イノベーション賞「リカレント型ニューラルネットワークの学習安定化技術の確立」（社内表彰）
 
 ## Activities
-Reviewer: ICML2021, AAAI2021, ICLR2022, NeurIPS2021, ICML2021, AAAI2021, NeurIPS2020, ICML2020, IJCAI-PRICAI2020, NeurIPS2019
+Reviewer:ICML2022, AAAI2022, ICLR2022, NeurIPS2021, ICML2021, AAAI2021, ICLR2022, NeurIPS2021, ICML2021, AAAI2021, NeurIPS2020, ICML2020, IJCAI-PRICAI2020, NeurIPS2019
 
 [English](/index.md)
