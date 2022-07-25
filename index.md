@@ -68,6 +68,10 @@ Journal of the Audio Engineering Society, Vol.64, No.11, pp.895-904, (2016)
 [[paper]](https://ieeexplore.ieee.org/document/6935290?arnumber=6935290)
 
 ## Preprints
+1. **Sekitoshi Kanai**, Shin'ya Yamaguchi, Masanori Yamada, Hiroshi Takahashi, Yasutoshi Ida,  
+  **Switching One-Versus-the-Rest Loss to Increase the Margin of Logits for Adversarial Robustness**,  
+  arXiv:2207.10283, 2022.  
+  [[arXiv]](https://arxiv.org/abs/2207.10283)  
 1. Shin'ya Yamaguchi, **Sekitoshi Kanai**, Atsutoshi Kumagai, Daiki Chijiwa, Hisashi Kashima  
    **Transfer Learning with Pre-trained Conditional Generative Models**  
   arXiv:2204.12833, 2022.  
