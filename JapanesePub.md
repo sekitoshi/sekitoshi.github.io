@@ -20,7 +20,8 @@ Journal of the Audio Engineering Society, Vol.64, No.11, pp.895-904, (2016)
 
 ## International Conference
 1. Hiroshi Takahashi, Tomoharu Iwata, Atsutoshi Kumagai, **Sekitoshi Kanai**, Masanori Yamada, Yuuki Yamanaka, and Hisashi Kashima,  
- **Learning Optimal Priors for Task-Invariant Representations in Variational Autoencoders**, KDD2022 (to appear)   
+ **Learning Optimal Priors for Task-Invariant Representations in Variational Autoencoders**, KDD2022  
+ [[paper]](https://dl.acm.org/doi/10.1145/3534678.3539291)
 1. Yasuhiro Fujiwara, Yasutoshi Ida, Atsutoshi Kumagai, **Sekitoshi Kanai**, and Naonori Ueda,  
  **Fast and Accurate Anchor Graph-based Label Prediction**, CIKM2021  
  [[paper]](https://dl.acm.org/doi/10.1145/3459637.3482258)
