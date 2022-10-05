@@ -78,6 +78,10 @@ Journal of the Audio Engineering Society, Vol.64, No.11, pp.895-904, (2016)
 [[paper]](https://ieeexplore.ieee.org/document/6935290?arnumber=6935290)
 
 ## Preprints
+1. Kentaro Ohno, **Sekitoshi Kanai**, Yasutoshi Ida,  
+**Fast Saturating Gate for Learning Long Time Scales with Recurrent Neural Networks**,  
+arXiv:2210.01348, 2022.  
+[[arXiv]](https://arxiv.org/abs/2210.01348)
 1. **Sekitoshi Kanai**, Shin'ya Yamaguchi, Masanori Yamada, Hiroshi Takahashi, Yasutoshi Ida,  
   **Switching One-Versus-the-Rest Loss to Increase the Margin of Logits for Adversarial Robustness**,  
   arXiv:2207.10283, 2022.  
