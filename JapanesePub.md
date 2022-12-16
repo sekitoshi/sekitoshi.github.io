@@ -19,6 +19,14 @@ Journal of the Audio Engineering Society, Vol.64, No.11, pp.895-904, (2016)
 **入力設計の改良による頭部伝達関数の多方向同時推定の高精度化**, 日本音響学会誌 研究速報, vol.71, No.7, pp.316-318, (2015)
 
 ## International Conference
+1. Kentaro Ohno, **Sekitoshi Kanai**, Yasutoshi Ida,  
+**Fast Saturating Gate for Learning Long Time Scales with Recurrent Neural Networks**,  
+AAAI 2023 (to appear)  
+[[arXiv]](https://arxiv.org/abs/2210.01348)
+
+1. Yasutoshi Ida, **Sekitoshi Kanai**, Kazuki Adachi, Atsutoshi Kumagai, Yasuhiro Fujiwara,  
+**Fast Regularized Discrete Optimal Transport with Group-sparse Regularizers**,  
+AAAI 2023 (to appear)  
 1. Hiroshi Takahashi, Tomoharu Iwata, Atsutoshi Kumagai, **Sekitoshi Kanai**, Masanori Yamada, Yuuki Yamanaka, and Hisashi Kashima,  
  **Learning Optimal Priors for Task-Invariant Representations in Variational Autoencoders**, KDD2022  
  [[paper]](https://dl.acm.org/doi/10.1145/3534678.3539291)
