@@ -10,6 +10,20 @@ Journal of the Audio Engineering Society, Vol.64, No.11, pp.895-904, (2016)
 [[paper]](https://www.aes.org/e-lib/online/browse.cfm?elib=18526)
 
 ## International Conference
+1. Kentaro Ohno, **Sekitoshi Kanai**, Yasutoshi Ida,  
+**Fast Saturating Gate for Learning Long Time Scales with Recurrent Neural Networks**,  
+AAAI 2023 (to appear)  
+[[arXiv]](https://arxiv.org/abs/2210.01348)
+
+1. Yasutoshi Ida, **Sekitoshi Kanai**, Kazuki Adachi, Atsutoshi Kumagai, Yasuhiro Fujiwara,  
+**Fast Regularized Discrete Optimal Transport with Group-sparse Regularizers**,  
+AAAI 2023 (to appear)  
+
+1. Kentaro Ohno, **Sekitoshi Kanai**, Yasutoshi Ida,  
+**Fast Saturating Gate for Learning Long Time Scales with Recurrent Neural Networks**,  
+arXiv:2210.01348, 2022.  
+[[arXiv]](https://arxiv.org/abs/2210.01348)
+
 1. Hiroshi Takahashi, Tomoharu Iwata, Atsutoshi Kumagai, **Sekitoshi Kanai**, Masanori Yamada, Yuuki Yamanaka, and Hisashi Kashima,  
  **Learning Optimal Priors for Task-Invariant Representations in Variational Autoencoders**, KDD2022  
 [[paper]](https://dl.acm.org/doi/10.1145/3534678.3539291) 
@@ -69,10 +83,6 @@ Journal of the Audio Engineering Society, Vol.64, No.11, pp.895-904, (2016)
 [[paper]](https://ieeexplore.ieee.org/document/6935290?arnumber=6935290)
 
 ## Preprints
-1. Kentaro Ohno, **Sekitoshi Kanai**, Yasutoshi Ida,  
-**Fast Saturating Gate for Learning Long Time Scales with Recurrent Neural Networks**,  
-arXiv:2210.01348, 2022.  
-[[arXiv]](https://arxiv.org/abs/2210.01348)
 1. **Sekitoshi Kanai**, Shin'ya Yamaguchi, Masanori Yamada, Hiroshi Takahashi, Yasutoshi Ida,  
   **Switching One-Versus-the-Rest Loss to Increase the Margin of Logits for Adversarial Robustness**,  
   arXiv:2207.10283, 2022.  
