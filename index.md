@@ -19,11 +19,6 @@ AAAI 2023 (to appear)
 **Fast Regularized Discrete Optimal Transport with Group-sparse Regularizers**,  
 AAAI 2023 (to appear)  
 
-1. Kentaro Ohno, **Sekitoshi Kanai**, Yasutoshi Ida,  
-**Fast Saturating Gate for Learning Long Time Scales with Recurrent Neural Networks**,  
-arXiv:2210.01348, 2022.  
-[[arXiv]](https://arxiv.org/abs/2210.01348)
-
 1. Hiroshi Takahashi, Tomoharu Iwata, Atsutoshi Kumagai, **Sekitoshi Kanai**, Masanori Yamada, Yuuki Yamanaka, and Hisashi Kashima,  
  **Learning Optimal Priors for Task-Invariant Representations in Variational Autoencoders**, KDD2022  
 [[paper]](https://dl.acm.org/doi/10.1145/3534678.3539291) 
