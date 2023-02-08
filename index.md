@@ -1,6 +1,10 @@
 He received his B.E. and M.E. degrees in Physics and Physico-Informatics Engineering from Keio University, Japan, in 2013, 2015, respectively. He recieved the Ph.D. degree in Engineering from Keio University, Japan in 2020. He is a researcher of NTT since 2015.
 # Publications
 ## Journal
+1. **Sekitoshi Kanai**, Masanori Yamada, Hiroshi Takahashi, Yuki Yamanaka, Yasutoshi Ida,  
+  **Relationship between Non-smoothness in Adversarial Training, Constraints of Attacks, and Flatness in the Input Space**,  
+  IEEE TNNLS (to appear)  
+  [[preprint (arXiv)]](https://arxiv.org/abs/2103.01400)  
 1. Yasuhiro Fujiwara, **Sekitoshi Kanai**, Yasutoshi Ida, Atsutoshi Kumagai, Naonori Ueda,  
 **Fast Algorithm for Anchor Graph Hashing**, PVLDB2021, Vol. 14, No. 6, pp.916-928, (2021)  
 [[paper]](http://www.vldb.org/pvldb/vol14/p916-fujiwara.pdf)
@@ -10,6 +14,9 @@ Journal of the Audio Engineering Society, Vol.64, No.11, pp.895-904, (2016)
 [[paper]](https://www.aes.org/e-lib/online/browse.cfm?elib=18526)
 
 ## International Conference
+1. Yasutoshi Ida, **Sekitoshi Kanai**, Atsutoshi Kumagai  
+**Fast Block Coordinate Descent for Non-Convex Group Regularizations**  
+AISTATS 2023 (to appear)  
 1. Kentaro Ohno, **Sekitoshi Kanai**, Yasutoshi Ida,  
 **Fast Saturating Gate for Learning Long Time Scales with Recurrent Neural Networks**,  
 AAAI 2023 (to appear)  
@@ -86,10 +93,7 @@ AAAI 2023 (to appear)
    **Transfer Learning with Pre-trained Conditional Generative Models**  
   arXiv:2204.12833, 2022.  
    [[arXiv]](https://arxiv.org/abs/2204.12833)  
-1. **Sekitoshi Kanai**, Masanori Yamada, Hiroshi Takahashi, Yuki Yamanaka, Yasutoshi Ida,  
-  **Smoothness Analysis of Loss Functions of Adversarial Training**,  
-  arXiv:2103.01400v1, 2021.  
-  [[arXiv]](https://arxiv.org/abs/2103.01400)  
+
 1. Masanori Yamada, **Sekitoshi Kanai**, Tomoharu Iwata, Tomokatsu Takahashi, Yuki Yamanaka, Hiroshi Takahashi, Atsutoshi Kumagai,  
   **Adversarial Training Makes Weight Loss Landscape Sharper in Logistic Regression**,  
   arXiv:2102.02950, 2021.  
