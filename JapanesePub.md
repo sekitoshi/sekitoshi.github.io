@@ -4,6 +4,10 @@
 2020年 慶應義塾大学大学院基礎理工学専攻博士課程修了 博士(工学)
 # Publications
 ## Journal
+1. **Sekitoshi Kanai**, Masanori Yamada, Hiroshi Takahashi, Yuki Yamanaka, Yasutoshi Ida,  
+  **Relationship between Non-smoothness in Adversarial Training, Constraints of Attacks, and Flatness in the Input Space**,  
+  IEEE TNNLS (to appear)  
+  [[preprint (arXiv)]](https://arxiv.org/abs/2103.01400)  
 1. Yasuhiro Fujiwara, **Sekitoshi Kanai**, Yasutoshi Ida, Atsutoshi Kumagai, Naonori Ueda,  
 **Fast Algorithm for Anchor Graph Hashing**, PVLDB2021, Vol. 14, No. 6, pp.916-928, (2021)  
 [[paper]](http://www.vldb.org/pvldb/vol14/p916-fujiwara.pdf)  
@@ -19,11 +23,13 @@ Journal of the Audio Engineering Society, Vol.64, No.11, pp.895-904, (2016)
 **入力設計の改良による頭部伝達関数の多方向同時推定の高精度化**, 日本音響学会誌 研究速報, vol.71, No.7, pp.316-318, (2015)
 
 ## International Conference
+1. Yasutoshi Ida, **Sekitoshi Kanai**, Atsutoshi Kumagai  
+**Fast Block Coordinate Descent for Non-Convex Group Regularizations**  
+AISTATS 2023 (to appear)  
 1. Kentaro Ohno, **Sekitoshi Kanai**, Yasutoshi Ida,  
 **Fast Saturating Gate for Learning Long Time Scales with Recurrent Neural Networks**,  
 AAAI 2023 (to appear)  
 [[arXiv]](https://arxiv.org/abs/2210.01348)
-
 1. Yasutoshi Ida, **Sekitoshi Kanai**, Kazuki Adachi, Atsutoshi Kumagai, Yasuhiro Fujiwara,  
 **Fast Regularized Discrete Optimal Transport with Group-sparse Regularizers**,  
 AAAI 2023 (to appear)  
@@ -86,10 +92,6 @@ AAAI 2023 (to appear)
 [[paper]](https://ieeexplore.ieee.org/document/6935290?arnumber=6935290)
 
 ## Preprints
-1. Kentaro Ohno, **Sekitoshi Kanai**, Yasutoshi Ida,  
-**Fast Saturating Gate for Learning Long Time Scales with Recurrent Neural Networks**,  
-arXiv:2210.01348, 2022.  
-[[arXiv]](https://arxiv.org/abs/2210.01348)
 1. **Sekitoshi Kanai**, Shin'ya Yamaguchi, Masanori Yamada, Hiroshi Takahashi, Yasutoshi Ida,  
   **Switching One-Versus-the-Rest Loss to Increase the Margin of Logits for Adversarial Robustness**,  
   arXiv:2207.10283, 2022.  
@@ -98,10 +100,6 @@ arXiv:2210.01348, 2022.
    **Transfer Learning with Pre-trained Conditional Generative Models**  
   arXiv:2204.12833, 2022.  
    [[arXiv]](https://arxiv.org/abs/2204.12833)
-1. Sekitoshi Kanai, Masanori Yamada, **Hiroshi Takahashi**, Yuki Yamanaka, Yasutoshi Ida,  
-  **Smoothness Analysis of Loss Functions of Adversarial Training**,  
-  arXiv:2103.01400v1, 2021.  
-  [[arXiv]](https://arxiv.org/abs/2103.01400)  
 1. Masanori Yamada, Sekitoshi Kanai, Tomoharu Iwata, Tomokatsu Takahashi, Yuki Yamanaka, **Hiroshi Takahashi**, Atsutoshi Kumagai,  
   **Adversarial Training Makes Weight Loss Landscape Sharper in Logistic Regression**,  
   arXiv:2102.02950, 2021.  
