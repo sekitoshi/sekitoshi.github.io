@@ -33,6 +33,7 @@ AAAI 2023 (to appear)
 1. Yasutoshi Ida, **Sekitoshi Kanai**, Kazuki Adachi, Atsutoshi Kumagai, Yasuhiro Fujiwara,  
 **Fast Regularized Discrete Optimal Transport with Group-sparse Regularizers**,  
 AAAI 2023 (to appear)  
+[[arXiv]](https://arxiv.org/abs/2303.07597))
 1. Hiroshi Takahashi, Tomoharu Iwata, Atsutoshi Kumagai, **Sekitoshi Kanai**, Masanori Yamada, Yuuki Yamanaka, and Hisashi Kashima,  
  **Learning Optimal Priors for Task-Invariant Representations in Variational Autoencoders**, KDD2022  
  [[paper]](https://dl.acm.org/doi/10.1145/3534678.3539291)
