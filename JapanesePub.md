@@ -145,6 +145,10 @@ AAAI 2023
 1. 2017年度 SIC所長表彰 イノベーション賞「リカレント型ニューラルネットワークの学習安定化技術の確立」（社内表彰）
 
 ## Activities
-Reviewer: NeurIPS2022 (Top Reviewers), ICML2022, AAAI2022, ICLR2022, NeurIPS2021, ICML2021, AAAI2021, ICLR2022, NeurIPS2021, ICML2021, AAAI2021, NeurIPS2020, ICML2020, IJCAI-PRICAI2020, NeurIPS2019
+Reviewer: 
+- ICML 2023, 2022, 2021, 2020  
+- NeurIPS 2022 (Top Reviewers), 2021, 2020, 2019  
+- AAAI 2022, 2021  
+- IJCAI-PRICAI 2020
 
 [English](/index.md)
