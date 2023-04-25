@@ -14,16 +14,21 @@ Journal of the Audio Engineering Society, Vol.64, No.11, pp.895-904, (2016)
 [[paper]](https://www.aes.org/e-lib/online/browse.cfm?elib=18526)
 
 ## International Conference
+1. **Sekitoshi Kanai**, Shin'ya Yamaguchi, Masanori Yamada, Hiroshi Takahashi, Kentaro Ohno, Yasutoshi Ida,  
+**One-vs-the-Rest Loss to Focus on Important Samples in Adversarial Training**,  
+ICML 2023 (to appear)  
+[[arXiv]](https://arxiv.org/abs/2207.10283)  
 1. Yasutoshi Ida, **Sekitoshi Kanai**, Atsutoshi Kumagai  
-**Fast Block Coordinate Descent for Non-Convex Group Regularizations**  
-AISTATS 2023 (to appear)
+**Fast Block Coordinate Descent for Non-Convex Group Regularizations**,  
+AISTATS 2023  
+[[paper]](https://proceedings.mlr.press/v206/ida23a/ida23a.pdf)
 1. Kentaro Ohno, **Sekitoshi Kanai**, Yasutoshi Ida,  
 **Fast Saturating Gate for Learning Long Time Scales with Recurrent Neural Networks**,  
-AAAI 2023 (to appear)  
+AAAI 2023  
 [[arXiv]](https://arxiv.org/abs/2210.01348)
 1. Yasutoshi Ida, **Sekitoshi Kanai**, Kazuki Adachi, Atsutoshi Kumagai, Yasuhiro Fujiwara,  
 **Fast Regularized Discrete Optimal Transport with Group-sparse Regularizers**,  
-AAAI 2023 (to appear)  
+AAAI 2023  
 [[arXiv]](https://arxiv.org/abs/2303.07597)
 1. Hiroshi Takahashi, Tomoharu Iwata, Atsutoshi Kumagai, **Sekitoshi Kanai**, Masanori Yamada, Yuuki Yamanaka, and Hisashi Kashima,  
  **Learning Optimal Priors for Task-Invariant Representations in Variational Autoencoders**, KDD2022  
@@ -84,10 +89,6 @@ AAAI 2023 (to appear)
 [[paper]](https://ieeexplore.ieee.org/document/6935290?arnumber=6935290)
 
 ## Preprints
-1. **Sekitoshi Kanai**, Shin'ya Yamaguchi, Masanori Yamada, Hiroshi Takahashi, Yasutoshi Ida,  
-  **Switching One-Versus-the-Rest Loss to Increase the Margin of Logits for Adversarial Robustness**,  
-  arXiv:2207.10283, 2022.  
-  [[arXiv]](https://arxiv.org/abs/2207.10283)  
 1. Shin'ya Yamaguchi, **Sekitoshi Kanai**, Atsutoshi Kumagai, Daiki Chijiwa, Hisashi Kashima  
    **Transfer Learning with Pre-trained Conditional Generative Models**  
   arXiv:2204.12833, 2022.  
@@ -100,6 +101,10 @@ AAAI 2023 (to appear)
 
 
 ## Activities
-Reviewer: NeurIPS2022 (Top Reviewers), ICML2022, AAAI2022, ICLR2022, NeurIPS2021, ICML2021, AAAI2021, NeurIPS2020, ICML2020, IJCAI-PRICAI2020, NeurIPS2019
+Reviewer:  
+- ICML 2023, 2022, 2021, 2020  
+- NeurIPS 2022 (Top Reviewers), 2021, 2020, 2019  
+- AAAI 2022, 2021  
+- IJCAI-PRICAI 2020
 
 [業績（日本語）](/JapanesePub.md)
