@@ -17,7 +17,7 @@ Journal of the Audio Engineering Society, Vol.64, No.11, pp.895-904, (2016)
 1. **Sekitoshi Kanai**, Shin'ya Yamaguchi, Masanori Yamada, Hiroshi Takahashi, Kentaro Ohno, Yasutoshi Ida,  
 **One-vs-the-Rest Loss to Focus on Important Samples in Adversarial Training**,  
 ICML 2023 (to appear)  
-[[arXiv]](https://arxiv.org/abs/2207.10283)  
+[[paper]](https://openreview.net/forum?id=S9WJvVZ3Ly), [[arXiv]](https://arxiv.org/abs/2207.10283)  
 1. Yasutoshi Ida, **Sekitoshi Kanai**, Atsutoshi Kumagai  
 **Fast Block Coordinate Descent for Non-Convex Group Regularizations**,  
 AISTATS 2023  
@@ -29,7 +29,7 @@ AAAI 2023
 1. Yasutoshi Ida, **Sekitoshi Kanai**, Kazuki Adachi, Atsutoshi Kumagai, Yasuhiro Fujiwara,  
 **Fast Regularized Discrete Optimal Transport with Group-sparse Regularizers**,  
 AAAI 2023  
-[[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/25965),[[arXiv]](https://arxiv.org/abs/2303.07597)
+[[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/25965), [[arXiv]](https://arxiv.org/abs/2303.07597)
 1. Hiroshi Takahashi, Tomoharu Iwata, Atsutoshi Kumagai, **Sekitoshi Kanai**, Masanori Yamada, Yuuki Yamanaka, and Hisashi Kashima,  
  **Learning Optimal Priors for Task-Invariant Representations in Variational Autoencoders**, KDD2022  
 [[paper]](https://dl.acm.org/doi/10.1145/3534678.3539291) 
