@@ -27,7 +27,7 @@ Journal of the Audio Engineering Society, Vol.64, No.11, pp.895-904, (2016)
 **Adversarial Finetuning with Latent Representation Constraint to Mitigate Accuracy-Robustness Tradeoff**, ICCV 2023 (to appear)
 1. **Sekitoshi Kanai**, Shin'ya Yamaguchi, Masanori Yamada, Hiroshi Takahashi, Kentaro Ohno, Yasutoshi Ida,  
 **One-vs-the-Rest Loss to Focus on Important Samples in Adversarial Training**, ICML 2023  
-[[paper]](https://openreview.net/forum?id=S9WJvVZ3Ly), [[arXiv]](https://arxiv.org/abs/2207.10283)  
+[[paper]](https://openreview.net/forum?id=S9WJvVZ3Ly), [[video & poster]](https://icml.cc/virtual/2023/poster/24734), [[arXiv]](https://arxiv.org/abs/2207.10283)  
 1. Yasutoshi Ida, **Sekitoshi Kanai**, Atsutoshi Kumagai  
 **Fast Block Coordinate Descent for Non-Convex Group Regularizations**, AISTATS 2023  
 [[paper]](https://proceedings.mlr.press/v206/ida23a/ida23a.pdf)
