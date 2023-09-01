@@ -16,6 +16,7 @@ Journal of the Audio Engineering Society, Vol.64, No.11, pp.895-904, (2016)
 ## International Conference
 1. Satoshi Suzuki, Shin'ya Yamaguchi, Shoichiro Takeda, **Sekitoshi Kanai**, Naoki Makishima, Atsushi Ando, Ryo Masumura   
 **Adversarial Finetuning with Latent Representation Constraint to Mitigate Accuracy-Robustness Tradeoff**, ICCV 2023 (to appear)
+[[arXiv]](https://arxiv.org/abs/2308.16454)
 1. **Sekitoshi Kanai**, Shin'ya Yamaguchi, Masanori Yamada, Hiroshi Takahashi, Kentaro Ohno, Yasutoshi Ida,  
 **One-vs-the-Rest Loss to Focus on Important Samples in Adversarial Training**, ICML 2023  
 [[paper]](https://openreview.net/forum?id=S9WJvVZ3Ly), [[video & poster]](https://icml.cc/virtual/2023/poster/24734), [[arXiv]](https://arxiv.org/abs/2207.10283)  
