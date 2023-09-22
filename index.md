@@ -14,6 +14,9 @@ Journal of the Audio Engineering Society, Vol.64, No.11, pp.895-904, (2016)
 [[paper]](https://www.aes.org/e-lib/online/browse.cfm?elib=18526)
 
 ## International Conference
+1. Shin'ya Yamaguchi, Daiki Chijiwa, **Sekitoshi Kanai**, Atsutoshi Kumagai, Hisashi Kashima  
+ **Regularizing Neural Networks with Meta-Learning Generative Models**, NeurIPS 2023 (to appear)  
+   [[arXiv]](https://arxiv.org/abs/2307.13899)
 1. Satoshi Suzuki, Shin'ya Yamaguchi, Shoichiro Takeda, **Sekitoshi Kanai**, Naoki Makishima, Atsushi Ando, Ryo Masumura   
 **Adversarial Finetuning with Latent Representation Constraint to Mitigate Accuracy-Robustness Tradeoff**, ICCV 2023 (to appear)
 [[arXiv]](https://arxiv.org/abs/2308.16454)
@@ -88,10 +91,6 @@ Journal of the Audio Engineering Society, Vol.64, No.11, pp.895-904, (2016)
 [[paper]](https://ieeexplore.ieee.org/document/6935290?arnumber=6935290)
 
 ## Preprints
-1. Shin'ya Yamaguchi, Daiki Chijiwa, **Sekitoshi Kanai**, Atsutoshi Kumagai, Hisashi Kashima  
- **Regularizing Neural Networks with Meta-Learning Generative Models**
-  arXiv:2307.13899, 2023.  
-   [[arXiv]](https://arxiv.org/abs/2307.13899)
 1. Shin'ya Yamaguchi, **Sekitoshi Kanai**, Atsutoshi Kumagai, Daiki Chijiwa, Hisashi Kashima  
    **Transfer Learning with Pre-trained Conditional Generative Models**  
   arXiv:2204.12833, 2022.  
