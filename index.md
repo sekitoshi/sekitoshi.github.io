@@ -112,4 +112,5 @@ Reviewer:
 - IJCAI-PRICAI 2020
 - CVPR 2024
 - IEEE TNNLS
+  
 [業績（日本語）](/JapanesePub.md)
