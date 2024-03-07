@@ -23,6 +23,8 @@ Journal of the Audio Engineering Society, Vol.64, No.11, pp.895-904, (2016)
 **入力設計の改良による頭部伝達関数の多方向同時推定の高精度化**, 日本音響学会誌 研究速報, vol.71, No.7, pp.316-318, (2015)
 
 ## International Conference
+1. Shin'ya Yamaguchi, **Sekitoshi Kanai**, Kazuki Adachi, Daiki Chijiwa,  
+**Adaptive Random Feature Regularization on Fine-tuning Deep Neural Networks**, CVPR 2023 (To appear)
 1. Shin'ya Yamaguchi, Daiki Chijiwa, **Sekitoshi Kanai**, Atsutoshi Kumagai, Hisashi Kashima  
  **Regularizing Neural Networks with Meta-Learning Generative Models**, NeurIPS 2023   
 [[paper]](https://openreview.net/pdf?id=WpuBEtrn0t), [[arXiv]](https://arxiv.org/abs/2307.13899)
@@ -156,5 +158,5 @@ Reviewer:
 - AAAI 2021, 2022
 - IJCAI-PRICAI 2020
 - CVPR 2024
-
+- IEEE TNNLS
 [English](/index.md)
