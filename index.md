@@ -106,12 +106,14 @@ Journal of the Audio Engineering Society, Vol.64, No.11, pp.895-904, (2016)
 
 ## Activities
 Reviewer:  
-- ICML 2020-2023 
+- ICML 2020-2024 
 - NeurIPS 2019-2023 (Top Reviewers 2022, 2023)
 - ICLR 2022, 2024
-- AAAI 2021, 2022
+- AAAI 2021-2023
 - IJCAI-PRICAI 2020
+- IJCAI 2024
 - CVPR 2024
 - IEEE TNNLS
-  
+- Neurocomputing
+
 [業績（日本語）](/JapanesePub.md)
