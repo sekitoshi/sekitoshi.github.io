@@ -15,7 +15,7 @@ Journal of the Audio Engineering Society, Vol.64, No.11, pp.895-904, (2016)
 
 ## International Conference
 1. Shin'ya Yamaguchi, **Sekitoshi Kanai**, Kazuki Adachi, Daiki Chijiwa,  
-**Adaptive Random Feature Regularization on Fine-tuning Deep Neural Networks**, CVPR 2023 (To appear)  
+**Adaptive Random Feature Regularization on Fine-tuning Deep Neural Networks**, CVPR 2024 (To appear)  
 [[arXiv]](https://arxiv.org/abs/2403.10097),
 1. Shin'ya Yamaguchi, Daiki Chijiwa, **Sekitoshi Kanai**, Atsutoshi Kumagai, Hisashi Kashima  
  **Regularizing Neural Networks with Meta-Learning Generative Models**, NeurIPS 2023   
