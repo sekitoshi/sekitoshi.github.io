@@ -7,7 +7,7 @@
 1. **Sekitoshi Kanai**, Masanori Yamada, Hiroshi Takahashi, Yuki Yamanaka, Yasutoshi Ida,  
   **Relationship between Non-smoothness in Adversarial Training, Constraints of Attacks, and Flatness in the Input Space**,  
   IEEE TNNLS Vol. 35, No. 8, pp. 10817-10831, (2024)  
-  [[Early Access]](https://ieeexplore.ieee.org/abstract/document/10049380), [[preprint (arXiv)]](https://arxiv.org/abs/2103.01400)  
+  [[paper]](https://ieeexplore.ieee.org/abstract/document/10049380), [[preprint (arXiv)]](https://arxiv.org/abs/2103.01400)  
 1. Yasuhiro Fujiwara, **Sekitoshi Kanai**, Yasutoshi Ida, Atsutoshi Kumagai, Naonori Ueda,  
 **Fast Algorithm for Anchor Graph Hashing**, PVLDB2021, Vol. 14, No. 6, pp.916-928, (2021)  
 [[paper]](http://www.vldb.org/pvldb/vol14/p916-fujiwara.pdf)  
