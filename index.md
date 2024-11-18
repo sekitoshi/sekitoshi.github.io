@@ -14,8 +14,11 @@ Journal of the Audio Engineering Society, Vol.64, No.11, pp.895-904, (2016)
 [[paper]](https://www.aes.org/e-lib/online/browse.cfm?elib=18526)
 
 ## International Conference
+1. Yasutoshi Ida, **Sekitoshi Kanai**, Atsutoshi Kumagai, Tomoharu Iwata, Yasuhiro Fujiwara,    
+**Fast Iterative Hard Thresholding Methods with Pruning Gradient Computations**, NeurIPS 2024 (To appear)  
+[[paper]](https://openreview.net/forum?id=09RKw0vXjR&noteId=6wcGTZTsZ3), 
 1. Shin'ya Yamaguchi, **Sekitoshi Kanai**, Kazuki Adachi, Daiki Chijiwa,  
-**Adaptive Random Feature Regularization on Fine-tuning Deep Neural Networks**, CVPR 2024 (To appear)  
+**Adaptive Random Feature Regularization on Fine-tuning Deep Neural Networks**, CVPR 2024  
 [[paper]](https://openaccess.thecvf.com/content/CVPR2024/html/Yamaguchi_Adaptive_Random_Feature_Regularization_on_Fine-tuning_Deep_Neural_Networks_CVPR_2024_paper.html), [[arXiv]](https://arxiv.org/abs/2403.10097)
 1. Shin'ya Yamaguchi, Daiki Chijiwa, **Sekitoshi Kanai**, Atsutoshi Kumagai, Hisashi Kashima  
  **Regularizing Neural Networks with Meta-Learning Generative Models**, NeurIPS 2023   
@@ -94,6 +97,10 @@ Journal of the Audio Engineering Society, Vol.64, No.11, pp.895-904, (2016)
 [[paper]](https://ieeexplore.ieee.org/document/6935290?arnumber=6935290)
 
 ## Preprints
+1. **Sekitoshi Kanai**, Yasutoshi Ida, Kazuki Adachi, Mihiro Uchida, Tsukasa Yoshida, Shin'ya Yamaguchi,  
+   **Evaluating Time-Series Training Dataset through Lens of Spectrum in Deep State Space Models**  
+  arXiv:2408.16261, 2024.  
+   [[arXiv]](https://arxiv.org/abs/2408.16261)  
 1. Shin'ya Yamaguchi, **Sekitoshi Kanai**, Atsutoshi Kumagai, Daiki Chijiwa, Hisashi Kashima  
    **Transfer Learning with Pre-trained Conditional Generative Models**  
   arXiv:2204.12833, 2022.  
@@ -107,7 +114,7 @@ Journal of the Audio Engineering Society, Vol.64, No.11, pp.895-904, (2016)
 ## Activities
 Reviewer:  
 - ICML 2020-2024 
-- NeurIPS 2019-2023 (Top Reviewers 2022, 2023)
+- NeurIPS 2019-2024 (Top Reviewers 2022, 2023)
 - ICLR 2022, 2024
 - AAAI 2021-2023
 - IJCAI-PRICAI 2020
