@@ -4,6 +4,9 @@
 2020年 慶應義塾大学大学院基礎理工学専攻博士課程修了 博士(工学)
 # Publications
 ## Journal
+1. Shin'ya Yamaguchi, **Sekitoshi Kanai**, Atsutoshi Kumagai, Daiki Chijiwa, Hisashi Kashima  
+**Transfer learning with pre-trained conditional generative models**, Machine Learning vol.114(4), No.96, (2025)  
+[[paper]](https://link.springer.com/article/10.1007/s10994-025-06748-7), [[arXiv]](https://arxiv.org/abs/2204.12833)  
 1. **Sekitoshi Kanai**, Masanori Yamada, Hiroshi Takahashi, Yuki Yamanaka, Yasutoshi Ida,  
   **Relationship between Non-smoothness in Adversarial Training, Constraints of Attacks, and Flatness in the Input Space**,  
   IEEE TNNLS Vol. 35, No. 8, pp. 10817-10831, (2024)  
@@ -23,6 +26,14 @@ Journal of the Audio Engineering Society, Vol.64, No.11, pp.895-904, (2016)
 **入力設計の改良による頭部伝達関数の多方向同時推定の高精度化**, 日本音響学会誌 研究速報, vol.71, No.7, pp.316-318, (2015)
 
 ## International Conference
+1. Yasutoshi Ida, **Sekitoshi Kanai**, Atsutoshi Kumagai, Tomoharu Iwata, Yasuhiro Fujiwara,    
+**Fast Proximal Gradient Methods with Node Pruning for Tree-Structured Sparse Regularization**, ECML-PKDD 2025
+1. **Sekitoshi Kanai**, Yasutoshi Ida,  Kazuki Adachi, Mihiro Uchida, Tsukasa Yoshida, Shin'ya Yamaguch   
+**Evaluation of Time-Series Training Dataset through Lens of Spectrum of Deep State Space Models**, IJCNN 2025
+[[arxiv]](https://arxiv.org/abs/2408.16261),
+1. Shin'ya Yamaguchi, Dewei Fen, **Sekitoshi Kanai**, Kazuki Adachi, Daiki Chijiwa,  
+**Post-pre-training for Modality Alignment in Vision-Language Foundation Models**, CVPR 2025  
+[[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Yamaguchi_Post-pre-training_for_Modality_Alignment_in_Vision-Language_Foundation_Models_CVPR_2025_paper.pdf)
 1. Yasutoshi Ida, **Sekitoshi Kanai**, Atsutoshi Kumagai, Tomoharu Iwata, Yasuhiro Fujiwara,    
 **Fast Iterative Hard Thresholding Methods with Pruning Gradient Computations**, NeurIPS 2024 (To appear)  
 [[paper]](https://openreview.net/forum?id=09RKw0vXjR&noteId=6wcGTZTsZ3), 
@@ -161,12 +172,12 @@ Journal of the Audio Engineering Society, Vol.64, No.11, pp.895-904, (2016)
 ## Activities
 Reviewer: 
 - ICML 2020-2024 
-- NeurIPS 2019-2024 (Top Reviewers 2022, 2023)
+- NeurIPS 2019-2025 (Top Reviewers 2022, 2023)
 - ICLR 2022, 2024
 - AAAI 2021-2023
 - IJCAI-PRICAI 2020
 - IJCAI 2024
-- CVPR 2024
+- CVPR 2024-2025
 - IEEE TNNLS
 - Neurocomputing
   
