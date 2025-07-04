@@ -2,7 +2,7 @@ He received his B.E. and M.E. degrees in Physics and Physico-Informatics Enginee
 # Publications
 ## Journal
 1. Shin'ya Yamaguchi, **Sekitoshi Kanai**, Atsutoshi Kumagai, Daiki Chijiwa, Hisashi Kashima  
-**Transfer learning with pre-trained conditional generative models**, Machine Learning vol.114(4), No.96, (2025)
+**Transfer learning with pre-trained conditional generative models**, Machine Learning vol.114(4), No.96, (2025)  
 [[paper]](https://link.springer.com/article/10.1007/s10994-025-06748-7), [[arXiv]](https://arxiv.org/abs/2204.12833)  
 1. **Sekitoshi Kanai**, Masanori Yamada, Hiroshi Takahashi, Yuki Yamanaka, Yasutoshi Ida,  
   **Relationship between Non-smoothness in Adversarial Training, Constraints of Attacks, and Flatness in the Input Space**,  
