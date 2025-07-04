@@ -1,6 +1,9 @@
 He received his B.E. and M.E. degrees in Physics and Physico-Informatics Engineering from Keio University, Japan, in 2013, 2015, respectively. He recieved the Ph.D. degree in Engineering from Keio University, Japan in 2020. He is a researcher of NTT since 2015.
 # Publications
 ## Journal
+1. Shin'ya Yamaguchi, **Sekitoshi Kanai**, Atsutoshi Kumagai, Daiki Chijiwa, Hisashi Kashima  
+**Transfer learning with pre-trained conditional generative models**, Machine Learning vol.114(4), No.96, (2025)
+[[paper]](https://link.springer.com/article/10.1007/s10994-025-06748-7)
 1. **Sekitoshi Kanai**, Masanori Yamada, Hiroshi Takahashi, Yuki Yamanaka, Yasutoshi Ida,  
   **Relationship between Non-smoothness in Adversarial Training, Constraints of Attacks, and Flatness in the Input Space**,  
   IEEE TNNLS Vol. 35, No. 8, pp. 10817-10831, (2024)  
@@ -15,7 +18,15 @@ Journal of the Audio Engineering Society, Vol.64, No.11, pp.895-904, (2016)
 
 ## International Conference
 1. Yasutoshi Ida, **Sekitoshi Kanai**, Atsutoshi Kumagai, Tomoharu Iwata, Yasuhiro Fujiwara,    
-**Fast Iterative Hard Thresholding Methods with Pruning Gradient Computations**, NeurIPS 2024 (To appear)  
+**Fast Proximal Gradient Methods with Node Pruning for Tree-Structured Sparse Regularization**, ECML-PKDD 2025
+1. **Sekitoshi Kanai**, Yasutoshi Ida,  Kazuki Adachi, Mihiro Uchida, Tsukasa Yoshida, Shin'ya Yamaguch   
+**Evaluation of Time-Series Training Dataset through Lens of Spectrum of Deep State Space Models**, IJCNN 2025
+[[arxiv]](https://arxiv.org/abs/2408.16261),
+1. Shin'ya Yamaguchi, Dewei Fen, **Sekitoshi Kanai**, Kazuki Adachi, Daiki Chijiwa,  
+**Post-pre-training for Modality Alignment in Vision-Language Foundation Models**, CVPR 2025  
+[[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Yamaguchi_Post-pre-training_for_Modality_Alignment_in_Vision-Language_Foundation_Models_CVPR_2025_paper.pdf)
+1. Yasutoshi Ida, **Sekitoshi Kanai**, Atsutoshi Kumagai, Tomoharu Iwata, Yasuhiro Fujiwara,    
+**Fast Iterative Hard Thresholding Methods with Pruning Gradient Computations**, NeurIPS 2024  
 [[paper]](https://openreview.net/forum?id=09RKw0vXjR&noteId=6wcGTZTsZ3), 
 1. Shin'ya Yamaguchi, **Sekitoshi Kanai**, Kazuki Adachi, Daiki Chijiwa,  
 **Adaptive Random Feature Regularization on Fine-tuning Deep Neural Networks**, CVPR 2024  
@@ -114,12 +125,12 @@ Journal of the Audio Engineering Society, Vol.64, No.11, pp.895-904, (2016)
 ## Activities
 Reviewer:  
 - ICML 2020-2024 
-- NeurIPS 2019-2024 (Top Reviewers 2022, 2023)
+- NeurIPS 2019-2025 (Top Reviewers 2022, 2023)
 - ICLR 2022, 2024
 - AAAI 2021-2023
 - IJCAI-PRICAI 2020
 - IJCAI 2024
-- CVPR 2024
+- CVPR 2024-2025
 - IEEE TNNLS
 - Neurocomputing
 
