@@ -3,7 +3,7 @@ He received his B.E. and M.E. degrees in Physics and Physico-Informatics Enginee
 ## Journal
 1. Shin'ya Yamaguchi, **Sekitoshi Kanai**, Atsutoshi Kumagai, Daiki Chijiwa, Hisashi Kashima  
 **Transfer learning with pre-trained conditional generative models**, Machine Learning vol.114(4), No.96, (2025)
-[[paper]](https://link.springer.com/article/10.1007/s10994-025-06748-7)
+[[paper]](https://link.springer.com/article/10.1007/s10994-025-06748-7), [[arXiv]](https://arxiv.org/abs/2204.12833)  
 1. **Sekitoshi Kanai**, Masanori Yamada, Hiroshi Takahashi, Yuki Yamanaka, Yasutoshi Ida,  
   **Relationship between Non-smoothness in Adversarial Training, Constraints of Attacks, and Flatness in the Input Space**,  
   IEEE TNNLS Vol. 35, No. 8, pp. 10817-10831, (2024)  
@@ -108,14 +108,6 @@ Journal of the Audio Engineering Society, Vol.64, No.11, pp.895-904, (2016)
 [[paper]](https://ieeexplore.ieee.org/document/6935290?arnumber=6935290)
 
 ## Preprints
-1. **Sekitoshi Kanai**, Yasutoshi Ida, Kazuki Adachi, Mihiro Uchida, Tsukasa Yoshida, Shin'ya Yamaguchi,  
-   **Evaluating Time-Series Training Dataset through Lens of Spectrum in Deep State Space Models**  
-  arXiv:2408.16261, 2024.  
-   [[arXiv]](https://arxiv.org/abs/2408.16261)  
-1. Shin'ya Yamaguchi, **Sekitoshi Kanai**, Atsutoshi Kumagai, Daiki Chijiwa, Hisashi Kashima  
-   **Transfer Learning with Pre-trained Conditional Generative Models**  
-  arXiv:2204.12833, 2022.  
-   [[arXiv]](https://arxiv.org/abs/2204.12833)  
 1. Masanori Yamada, **Sekitoshi Kanai**, Tomoharu Iwata, Tomokatsu Takahashi, Yuki Yamanaka, Hiroshi Takahashi, Atsutoshi Kumagai,  
   **Adversarial Training Makes Weight Loss Landscape Sharper in Logistic Regression**,  
   arXiv:2102.02950, 2021.  
